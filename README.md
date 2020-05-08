@@ -10,10 +10,10 @@ Pré-requisitos para rodar este código:
 * Opcional: Maven (https://maven.apache.org/) para rodar os testes em linha de comando
 
 Como importar o projeto no IDE Eclipse:
-# Menu "File" > "Import..."
-# Na tela "Import", selecione a opção "Maven" > "Existing Maven Project"
-# SClique no botão "Next"
-# Na tela "Import Maven Project", clique no botão "Browse"
-# Selecione a pasta que contém este projeto descompactado
-# Confirme clicando no botão "Finish" para concluir a importação
-# O projeto será mostrado no Eclipse no painel "Package Explorer" à esquerda
+1. Menu "File" > "Import..."
+2. Na tela "Import", selecione a opção "Maven" > "Existing Maven Project"
+3. Clique no botão "Next"
+4. Na tela "Import Maven Project", clique no botão "Browse"
+5. Selecione a pasta que contém este projeto descompactado
+6. Confirme clicando no botão "Finish" para concluir a importação
+7. O projeto será mostrado no Eclipse no painel "Package Explorer" à esquerda
